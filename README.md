@@ -1,6 +1,6 @@
 # 🛒 E-Commerce SQL Analytics Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing a real-world E-Commerce dataset using **SQL (MySQL)** to solve practical business problems related to:
 
@@ -30,7 +30,7 @@ Dataset contains:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 * MySQL Workbench
 * SQL
@@ -38,7 +38,7 @@ Dataset contains:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ecommerce-sql-analytics-project/
 │
@@ -50,7 +50,7 @@ ecommerce-sql-analytics-project/
 
 ---
 
-## 🚀 Business Problems Solved
+##  Business Problems Solved
 
 ### Problem 0 — Data Integrity Audit
 
@@ -96,7 +96,7 @@ ecommerce-sql-analytics-project/
 
 ---
 
-## 💡 Key Learnings
+##  Key Learnings
 
 Through this project, I learned:
 
@@ -108,19 +108,19 @@ Through this project, I learned:
 
 ---
 
-## 🧠 SQL Concepts Used
+## SQL Concepts Used
 
 `JOIN` | `GROUP BY` | `ORDER BY` | `CASE WHEN` | `COUNT()` | `SUM()` | `AVG()` | `DATEDIFF()` | `HAVING` | `Subqueries`
 
 ---
 
-## 📷 Project Screenshots
+##  Project Screenshots
 
 Screenshots available inside the `/screenshots` folder.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Uday Kiran Suda**
 
